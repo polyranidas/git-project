@@ -1,0 +1,10 @@
+h1 {
+    background-color: aqua;
+    text-align: center;
+    padding: 20px;
+}
+p {
+    background-color: aquamarine;
+    padding: 20px;
+    font-family: Verdana, Geneva, Tahoma, sans-serif;
+}
