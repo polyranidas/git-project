@@ -1,4 +1,10 @@
-h1 {
+    * {
+        margin: 0;
+        padding: 0;
+        box-sizing: border-box;
+    }
+    
+    h1 {
     background-color: aqua;
     text-align: center;
     padding: 20px;
@@ -13,9 +19,17 @@ a {
     text-decoration: none;
     background-color: chartreuse;
     height: 200px;
-    width: 200px;
+    width: 20%;
     padding: 20px;
     border: 5px solid red;
     
+
+}
+    ol li {
+    background-color: rgb(85, 85, 174);
+    color: aliceblue;
+    padding: 20px;
+    text-align: center;
+    margin-top: 5px;
 
 }
